@@ -7,10 +7,12 @@ import {
   Text,
   Image,
   TouchableOpacity,
+  Button,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import cn from "clsx";
 import CardButton from "@/components/CardButton";
+import * as Sentry from "@sentry/react-native"
 
 export default function Index() {
   return (
