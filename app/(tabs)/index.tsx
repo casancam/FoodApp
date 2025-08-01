@@ -1,18 +1,16 @@
+import CartButton from "@/components/CartButton";
 import { images, offers } from "@/constants";
+import cn from "clsx";
 import React from "react";
 import {
   FlatList,
-  Pressable,
-  View,
-  Text,
   Image,
+  Pressable,
+  Text,
   TouchableOpacity,
-  Button,
+  View
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import cn from "clsx";
-import CardButton from "@/components/CardButton";
-import * as Sentry from "@sentry/react-native"
 
 export default function Index() {
   return (
@@ -78,7 +76,7 @@ export default function Index() {
               </TouchableOpacity>
             </View>
   
-            <CardButton />
+            <CartButton />
           </View>
           )}
         />
