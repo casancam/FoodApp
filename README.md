@@ -1,3 +1,13 @@
+## FoodApp
+
+Simple React Native App simulating a food-ordering app like Deliveroo or Just Eat. Uses Appwrite for Db and Auth, sentry for monitoring
+
+<img width="408" height="847" alt="Screenshot 2025-08-03 at 13 06 39" src="https://github.com/user-attachments/assets/c12a90d5-21cf-43b2-a93e-3ee0e8776e46" />
+
+<img width="408" height="847" alt="Screenshot 2025-08-03 at 13 06 50" src="https://github.com/user-attachments/assets/8d7b2713-41df-4f5b-915f-395d5ba09505" />
+
+<img width="408" height="847" alt="Screenshot 2025-08-03 at 13 07 05" src="https://github.com/user-attachments/assets/87df0360-4aea-41c2-b722-ec9f10209de5" />
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
